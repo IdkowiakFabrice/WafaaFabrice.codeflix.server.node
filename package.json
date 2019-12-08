@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Simple server",
+  "main": "main.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  },
+  "scripts": {
+    "start": "npx nodemon main.js"
+  },
+  "author": "Fabrice",
+  "license": "ISC"
+}
